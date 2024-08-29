@@ -3,7 +3,8 @@
 <suite name="test suite">
 <test name="test cases">
 <classes>
-<class name="DependenciesManagement"></class>
+<class name="demo.DependenciesManagement"></class>
+<class name="demo.DriveCar"></class>
 </classes>
 </test>
 </suite>
