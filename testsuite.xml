@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="test suite">
+<test name="test cases">
+<classes>
+<class name="DependenciesManagement"></class>
+</classes>
+</test>
+</suite>
